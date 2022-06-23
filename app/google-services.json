@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "823144242545",
+    "firebase_url": "https://timer-and-monitoring-device-default-rtdb.firebaseio.com",
+    "project_id": "timer-and-monitoring-device",
+    "storage_bucket": "timer-and-monitoring-device.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823144242545:android:e9e76d041585467325ead0",
+        "android_client_info": {
+          "package_name": "pttv.com.example.timerandmonitoringdevice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823144242545-on674dgei0uqgcgfn6lvohjo1bph8sj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxkJr3YpMiyOct4XFL3BEcki7ERjnsvas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823144242545-on674dgei0uqgcgfn6lvohjo1bph8sj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

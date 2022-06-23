@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Timer and Monitoring Device</string>
+    <string name="desc">Image</string>
+
+    <string name="home_nav">Trang chủ</string>
+    <string name="l1_nav">Cho ăn lần 1</string>
+    <string name="l2_nav">Cho ăn lần 2</string>
+    <string name="l3_nav">Cho ăn lần 3</string>
+    <string name="camera_nav">Camera</string>
+
+    <string name="open_nav">Open Navigation</string>
+    <string name="close_nav">Close Navigation</string>
+</resources>
